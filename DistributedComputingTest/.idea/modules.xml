@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DistributedComputingTest.iml" filepath="$PROJECT_DIR$/DistributedComputingTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MasterNode/MasterNode.iml" filepath="$PROJECT_DIR$/MasterNode/MasterNode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rmiutil/rmiutil.iml" filepath="$PROJECT_DIR$/rmiutil/rmiutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdd/sdd.iml" filepath="$PROJECT_DIR$/sdd/sdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workernode/workernode.iml" filepath="$PROJECT_DIR$/workernode/workernode.iml" />
+    </modules>
+  </component>
+</project>
